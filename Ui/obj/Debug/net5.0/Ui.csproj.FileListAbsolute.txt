@@ -1,0 +1,16 @@
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\Ui.exe
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\Ui.deps.json
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\Ui.runtimeconfig.json
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\Ui.runtimeconfig.dev.json
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\Ui.dll
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\ref\Ui.dll
+C:\csharp\myfolder\TresCamadas\Ui\bin\Debug\net5.0\Ui.pdb
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.csproj.AssemblyReference.cache
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.AssemblyInfoInputs.cache
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.AssemblyInfo.cs
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.csproj.CoreCompileInputs.cache
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.dll
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\ref\Ui.dll
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.pdb
+C:\csharp\myfolder\TresCamadas\Ui\obj\Debug\net5.0\Ui.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\csharp\myfolder\TresCamadas\Bussiness\bin\Debug\net5.0\Bussiness.deps.json
+C:\csharp\myfolder\TresCamadas\Bussiness\bin\Debug\net5.0\Bussiness.dll
+C:\csharp\myfolder\TresCamadas\Bussiness\bin\Debug\net5.0\ref\Bussiness.dll
+C:\csharp\myfolder\TresCamadas\Bussiness\bin\Debug\net5.0\Bussiness.pdb
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.csproj.AssemblyReference.cache
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.AssemblyInfoInputs.cache
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.AssemblyInfo.cs
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.dll
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\ref\Bussiness.dll
+C:\csharp\myfolder\TresCamadas\Bussiness\obj\Debug\net5.0\Bussiness.pdb
