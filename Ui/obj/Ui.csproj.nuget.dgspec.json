@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp\\myfolder\\TresCamadas\\Ui\\Ui.csproj": {}
+    "C:\\csharp\\Curso_NelioAlves\\TresCamadas\\Ui\\Ui.csproj": {}
   },
   "projects": {
-    "C:\\csharp\\myfolder\\TresCamadas\\Ui\\Ui.csproj": {
+    "C:\\csharp\\Curso_NelioAlves\\TresCamadas\\Ui\\Ui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp\\myfolder\\TresCamadas\\Ui\\Ui.csproj",
+        "projectUniqueName": "C:\\csharp\\Curso_NelioAlves\\TresCamadas\\Ui\\Ui.csproj",
         "projectName": "Ui",
-        "projectPath": "C:\\csharp\\myfolder\\TresCamadas\\Ui\\Ui.csproj",
+        "projectPath": "C:\\csharp\\Curso_NelioAlves\\TresCamadas\\Ui\\Ui.csproj",
         "packagesPath": "C:\\Users\\Kayke\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp\\myfolder\\TresCamadas\\Ui\\obj\\",
+        "outputPath": "C:\\csharp\\Curso_NelioAlves\\TresCamadas\\Ui\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
